@@ -7,8 +7,8 @@ const NavBar = () => {
         <div>
         <AppBar position="static">
             <Toolbar>
-                <Typography variant="title" color="inherit">
-                React & Material-UI Sample Application
+                <Typography variant="subtitle1" color="inherit">
+                    React & Material-UI Sample Application
                 </Typography>
             </Toolbar>
         </AppBar>
